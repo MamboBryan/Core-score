@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Core score</string>
+    <string name="start_instructions">
+
+        This app keeps track of the scores and events of a basketball or soccer game
+
+    </string>
+    <string name="choice_message">Select your sport</string>
+    <string name="sport_one">Basketball</string>
+    <string name="sport_two">Soccer</string>
+    <string name="start_button">Start</string>
 </resources>
